@@ -42,6 +42,7 @@ The game includes:
    Type quit to walk away with your current amount.
 
 ---------------------------- HOW TO RUN THE GAME ----------------------------
+
 Requirements:
 - Python 3.14.0
 - No external libraries required
@@ -53,6 +54,7 @@ Requirements:
      python KBC.py
 
 ---------------------------- PROJECT STRUCTURE ----------------------------
+
 📁 KBC-Game:
 │–– KBC.py        # Main game file
 |–– README.md     # Project documentation
