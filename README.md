@@ -1,6 +1,5 @@
 # KAUN-BANEGA-CROREPATI
 A fun quiz-based Python game inspired by the famous Indian TV show
-This is my second project.
 
 ---------------------------- OVERVIEW ----------------------------
 
@@ -56,7 +55,9 @@ Requirements:
 ---------------------------- PROJECT STRUCTURE ----------------------------
 
 📁 KBC-Game:
+
 │–– KBC.py        # Main game file
+
 |–– README.md     # Project documentation
 
 ---------------------------- ACKNOWLEDGEMENT ----------------------------
@@ -68,3 +69,7 @@ This is my second Python project, and it helped me practice:
 4. lists
 5. input validation
 6. random operations
+
+---------------------------- AUTHOR ----------------------------
+- YASH
+- Second Pyhton Project oploaded on github.
